@@ -1,3 +1,9 @@
+## Built with support from Cyfrin Updraft 🏗️
+
+If you want to learn more about foundry, I highly recommend checking out Cyfrin Updraft by Patrick Collins. 
+
+The code below is just directly from Foundry installation.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
